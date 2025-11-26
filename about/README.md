@@ -9,7 +9,7 @@ The goal is simple: reduce guesswork, make expectations explicit, and treat work
 ## Contents
 
 **User Manual – B. M. Spangler**  
-`User_Manual_BM_Spangler.md` (or `.pdf`)  
+`User_Manual_BM_Spangler.md`
 
 This document covers:
 
