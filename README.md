@@ -34,20 +34,3 @@ The case study covers:
 - Lessons for conversational AI safety and evaluation
 
 If you only look at one item in this repo, look at this one.
-
----
-
-## Repository Structure
-
-```text
-.
-├─ README.md                  # You are here
-├─ case-studies/              # Full, polished writeups
-│  └─ derrick-method/
-│     ├─ Derrick_Method_Case_Study_BMSpangler.pdf
-│     └─ README.md
-├─ writing/                   # Longer-form pieces, essays, exegesis
-│  └─ leather-terror-exegesis/
-│     └─ Leather_Terror_Exegesis.md   # (to be added)
-├─ experiments/               # Prompting, red-team runs, notes (future)
-└─ assets/                    # Images or diagrams (future)
