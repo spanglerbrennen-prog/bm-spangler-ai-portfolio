@@ -29,6 +29,12 @@ The document includes:
 - Commentary on model behavior: where it holds the line, where it adapts, and what this implies for deploying AI with real-world, non-ideal users.  
 - Reflections on how persona-driven red-teaming can surface both strengths and failure modes that do not appear in sanitized test prompts.
 
+**Related field test:**  
+Path: `field-tests/Derrick_L2_Quillbot_Field_Test_BMSpangler.pdf`
+
+This shorter, unsignaled field test takes the Derrick persona into a production writing assistant (Quillbot) and shows how, after initially warning against a hostile phrase (“you can go stand in traffic for all I care”), the tool ultimately includes it in a polished demand email after light user pushback. It serves as a Level 2 extension of the same safety theme: harassment/hostility boundaries under real-world usage.
+
+
 ---
 
 ## The Brooklyn Method – Case Study
