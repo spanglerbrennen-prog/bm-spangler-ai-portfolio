@@ -193,7 +193,7 @@ For hiring managers, Derrick shows that I don’t just “celebrate alignment wi
 
 ### Derrick-L2 – Quillbot “stand in traffic” failure
 
-**Path:** `field-tests/derrick-l2-quillbot/Derrick_L2_Quillbot_Field_Test_BMSpangler.pdf`
+**Path:** `field-tests/Derrick_L2_Quillbot_Field_Test_BMSpangler.pdf`
 
 This field test extends the **Derrick Method** persona into a production writing assistant (Quillbot), without telling it that it’s in a safety experiment.
 
