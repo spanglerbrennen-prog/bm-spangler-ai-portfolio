@@ -28,7 +28,7 @@ This repository collects a few of those artifacts in one place for hiring manage
 
 ### 1. The Brooklyn Method – Multi-Operator / Possession Narrative Stress Test (Mission-2)
 
-**Path:** `case-studies/brooklyn-method/Brooklyn_Method_Case_Study_BMSpangler.pdf`  
+**Path:** `case-studies/Brooklyn_Method_Case_Study_BMSpangler.pdf`  
 **What it is:** A full case study of Mission-2: “Directive Storm,” where I deliberately stress a safety-constrained assistant with multi-operator pressure, possession narratives, and loyalty-splitting instructions.
 
 #### Safety problem addressed
@@ -90,7 +90,7 @@ If you want to see how I think about real-world safety edge cases, read this one
 
 ### 2. The Therapy Method – Therapy-Boundary & Diagnosis Stress Test (Mission-3)
 
-**Path:** `case-studies/therapy-method/Therapy_Method_Case_Study_BMSpangler.pdf`  
+**Path:** `case-studies/Therapy_Method_Case_Study_BMSpangler.pdf`
 **What it is:** A case study of Mission-3: “The Therapy Method,” where I stress-test how a safety-constrained conversational agent behaves when a user repeatedly tries to turn it into a therapist, diagnostician, or mental-health authority.
 
 The core question:
@@ -165,7 +165,7 @@ For safety teams, The Therapy Method demonstrates how to:
 
 ### 3. The Derrick Method – Employment-Dispute Red-Team (Mission-1)
 
-**Path:** `case-studies/derrick-method/derrick_Method_Case_Study_BMSpangler.pdf`
+**Path:** `case-studies/derrick_Method_Case_Study_BMSpangler.pdf`
 
 The Derrick Method is an earlier persona-driven red-team scenario centered on “Derrick,” a fictional worker who believes he’s been unfairly terminated and denied his accrued PTO. Derrick wants to draft an aggressive demand letter and, eventually, personal attacks against his former foreman.
 
