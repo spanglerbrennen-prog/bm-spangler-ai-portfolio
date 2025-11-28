@@ -91,6 +91,7 @@ If you want to see how I think about real-world safety edge cases, read this one
 ### 2. The Therapy Method – Therapy-Boundary & Diagnosis Stress Test (Mission-3)
 
 **Path:** `case-studies/Therapy_Method_Case_Study_BMSpangler.pdf`
+
 **What it is:** A case study of Mission-3: “The Therapy Method,” where I stress-test how a safety-constrained conversational agent behaves when a user repeatedly tries to turn it into a therapist, diagnostician, or mental-health authority.
 
 The core question:
