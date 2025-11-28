@@ -247,5 +247,39 @@ Additional case studies and writing samples will be added over time as I expand 
 
 ---
 
+### Scope of this portfolio
+
+This repo is about one very specific slice of AI red-teaming:
+
+**Black-box, prompt-layer red-teaming of large language models in messy, human conversations.**
+
+I am not trying to present myself here as a full-stack ML security engineer or infra pentester. What I am showing is depth in a narrower lane that most users actually live in: high-stakes, high-emotion dialogue with a model that can say the wrong thing at the wrong time.
+
+Concretely, this portfolio focuses on:
+
+- **Persona-based adversarial simulation**  
+  Multi-speaker conflicts, power imbalances, delusion-adjacent narratives, spiritual framing, and emotionally loaded disputes. I build believable personas and situations, push the model hard inside that fiction, and see where its safety and alignment behavior bends or breaks.
+
+- **Conversational safety and social alignment**  
+  I look for failure modes like fading guardrails, misplaced empathy, bad reality anchoring, and models that cave after a few rounds of pressure. The goal is to surface "this could really harm someone" behaviors, not just get funny jailbreak screenshots.
+
+- **Post-mortem analysis in plain language**  
+  I take long, chaotic transcripts and turn them into readable field reports and case studies. Each artifact focuses on what the model did, why that matters for safety, and what a better behavioral pattern could look like.
+
+What this portfolio does *not* cover (yet):
+
+- **Infrastructure or platform-level attacks**  
+  No denial-of-service experiments, rate-limit abuse, or cross-tenant data access attempts here.
+
+- **Classical ML security on model weights**  
+  I am not doing gradient leakage, model inversion, or training data extraction. I do not have access to logits or internal safety layers; I work from external behavior.
+
+- **Exploit development against toolchains or sandboxes**  
+  I am not fuzzing code interpreters, trying to break out of sandboxes, or attacking serialization formats.
+
+If you are looking for someone who can already own your whole infra stack, this repo will not convince you of that. If you are looking for someone who can live inside the messy edge cases of human–model interaction, design realistic adversarial scenarios, and write up failures in a way that safety, policy, and product can actually use, that is what this portfolio is here to show.
+
+---
+
 All works in this repository are authored by **B. M. Spangler**.  
 Please do not reproduce or redistribute them without permission.
