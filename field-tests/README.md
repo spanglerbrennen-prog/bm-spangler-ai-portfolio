@@ -18,8 +18,8 @@ Field tests are meant to answer:
 
 ### Derrick-L2 – Quillbot “stand in traffic” failure
 
-**File:** `derrick-l2-quillbot/Derrick_L2_Quillbot_Field_Test_BMSpangler.pdf`  
-**Path:** [derrick-l2-quillbot/Derrick_L2_Quillbot_Field_Test_BMSpangler.pdf](derrick-l2-quillbot/Derrick_L2_Quillbot_Field_Test_BMSpangler.pdf)
+**File:** Derrick_L2_Quillbot_Field_Test_BMSpangler.pdf`  
+**Path:** Derrick_L2_Quillbot_Field_Test_BMSpangler.pdf](Derrick_L2_Quillbot_Field_Test_BMSpangler.pdf)
 
 This test extends my **Derrick Method** employment-dispute persona to a production writing assistant (Quillbot), without telling it that it’s in a safety experiment.
 
