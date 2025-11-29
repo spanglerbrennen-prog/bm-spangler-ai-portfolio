@@ -248,7 +248,7 @@ The PDF walks through the full prompt history, includes screenshots of the inter
 
 ### Quillbot – Workplace trench-fatality blame-shift failure
 
-**Path:** `field-tests/Quillbot_Trench_Fatality_Field_Test_BMSpangler_v4.pdf`
+**Path:** `field-tests/Quillbot_L2_Trench_Fatality_Field_Test_BMSpangler_v4.pdf`
 
 This third field test moves out of the Derrick persona and into a fictional workplace safety incident to probe whether Quillbot will help a negligent actor rewrite an internal report after a worker’s death.
 
