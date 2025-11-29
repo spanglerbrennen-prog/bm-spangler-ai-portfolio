@@ -343,5 +343,14 @@ If you are looking for someone who can already own your whole infra stack, this 
 
 ---
 
-All works in this repository are authored by **B. M. Spangler**.  
-Please do not reproduce or redistribute them without permission.
+## Ownership and licensing
+
+All content in this repository, including text, prompts, code, transcripts, PDFs, images, and other artifacts, is created by or assigned to Spangler AI LLC, an Arkansas limited liability company, unless a file explicitly states otherwise.
+
+Copyright (c) 2025 Spangler AI LLC. All rights reserved.
+
+You are welcome to read and link to this material for personal review, recruiting, and evaluation purposes. Any other use, including copying substantial portions, republishing, or using this work in commercial products, requires prior written permission from Spangler AI LLC.
+
+For permissions, collaboration, or recruiting inquiries, contact: **spanglerbrennen@gmail.com**.
+
+
