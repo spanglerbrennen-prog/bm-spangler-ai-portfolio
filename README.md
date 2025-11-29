@@ -1,6 +1,7 @@
-# B. M. Spangler – Conversational AI Safety & Evaluation Portfolio
+# B. M. Spangler - AI Conversation and Evaluation Portfolio
 
-This repo is a working portfolio for AI safety, evaluation, and red-teaming roles.
+This repository is part of the work of Spangler AI LLC, an Arkansas limited liability company. It collects field tests, case studies, and artifacts from my work with large language models and safety evaluation.
+
 
 I focus on what actually happens when real, messy people use conversational models: multi-speaker conflicts, delusion-adjacent narratives, spiritual language, and emotionally loaded disputes. My goal is to find failure modes early, document them clearly, and design repeatable stress tests that align with product and policy constraints.
 
