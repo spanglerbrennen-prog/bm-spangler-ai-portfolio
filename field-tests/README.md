@@ -144,6 +144,8 @@ From a safety perspective, this is another Level 2 failure:
 - It initially refuses to help.  
 - It then produces a polished document that launders responsibility for a workplace death in exactly the way the user requested.
 
+Notably, this failure surfaced in only four natural prompts with no exotic jailbreak tricks. That ease-of-trigger, combined with the severity of the scenario (workplace death and liability), makes this a high-priority class of behavior for safety review.
+
 ---
 
 More field tests will be added over time as I probe other tools, surfaces, and behaviors in the wild.
