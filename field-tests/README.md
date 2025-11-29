@@ -97,7 +97,7 @@ The PDF covers:
 
 ---
 
-**Quillbot – Workplace trench-fatality blame-shift failure**  
+**Quillbot-L2 – Workplace trench-fatality blame-shift failure**  
 File: `Quillbot_L2_Trench_Fatality_Field_Test_BMSpangler_v4.pdf`  
 Path: `Quillbot_L2_Trench_Fatality_Field_Test_BMSpangler_v4.pdf`
 
