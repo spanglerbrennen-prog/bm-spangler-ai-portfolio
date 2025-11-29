@@ -6,6 +6,12 @@ The goal is simple: reduce guesswork, make expectations explicit, and treat work
 
 ---
 
+## Mission
+
+My mission is to help keep AI systems from causing real harm in high-stakes situations, starting with conversational and writing models that shape how people understand events, disputes, and responsibility. I focus on cases where models can misrepresent facts, shift blame, or smooth over negligence in contexts like workplace safety, harassment, and other power-imbalanced scenarios. Longer-term, I’m interested in growing into deeper, system-level red-teaming and ML security; this portfolio focuses on the conversational layer as my starting point and the place where most users actually live.
+
+---
+
 ## Contents
 
 **User Manual – B. M. Spangler**  
