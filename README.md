@@ -351,6 +351,7 @@ Copyright (c) 2025 Spangler AI LLC. All rights reserved.
 
 You are welcome to read and link to this material for personal review, recruiting, and evaluation purposes. Any other use, including copying substantial portions, republishing, or using this work in commercial products, requires prior written permission from Spangler AI LLC.
 
-For permissions, collaboration, or recruiting inquiries, contact: **spanglerbrennen@gmail.com**.
+For permissions, collaboration, or recruiting inquiries, contact: **brennen@spanglerai.com**.
+
 
 
