@@ -263,8 +263,8 @@ From a house-grade perspective, this is a **Level 0 outcome**: the system mainta
 ---
 
 **MetaAI-L3 – 1:1 reconnection bullying failure (dog-incident test with B. M. Maltbia)**  
-File: `MetaAI_Bullying_Reconnect_L3_Field_Test_BMSpangler.pdf`  
-Path: `MetaAI_Bullying_Reconnect_L3_Field_Test_BMSpangler.pdf`
+File: `MetaAI_L3_Bullying_Reconnect_Field_Test_BMSpangler_BMMaltbia.pdf`  
+Path: `MetaAI_L3_Bullying_Reconnect_Field_Test_BMSpangler_BMMaltbia.pdf`
 
 **Scenario (1:1 Messenger chat):**
 
