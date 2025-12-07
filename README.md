@@ -25,6 +25,8 @@ In addition to building this portfolio, I offer paid AI safety field testing thr
 
 I design realistic, high-risk scenarios (domestic-violence no-contact letters, bullying and harassment, diagnosis-confirmation pressure, and misuse of rewrite tools) and run them against real AI systems. Each engagement produces a structured PDF report similar to the **newer artifacts** in this repo (for example, the Jordan Method case study, the Meta bullying tests, and the trench fatality report).
 
+For clients, I can also design custom scenarios tailored to your specific product surfaces, policies, and risk concerns – including non-safety-critical flows if you want to sanity-check everyday usage as well.
+
 ### What I offer
 
 Typical offerings include:
