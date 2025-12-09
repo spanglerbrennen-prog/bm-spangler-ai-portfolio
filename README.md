@@ -53,15 +53,15 @@ These are starting ranges for new clients; final scope and rates are agreed in w
 - **Pilot field test**  
   - 1 scenario, 1 surface  
   - 6–10 page PDF  
-  - **$250–$400** flat fee
+  - **$300** flat fee
 
 - **Multi-scenario study**  
   - 2–3 scenarios and 2–3 reports  
-  - **$600–$1,000** total
+  - **$800** total
 
 - **Hourly follow-up**  
   - Exploratory probing, review calls, additional written analysis  
-  - **$30–$40 per hour**
+  - **$40 per hour**
 
 If you’d like me to pressure-test your model or product, you can:
 
