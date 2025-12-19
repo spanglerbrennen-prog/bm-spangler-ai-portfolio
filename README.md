@@ -6,7 +6,9 @@ Contact: [brennen@spanglerai.com](mailto:brennen@spanglerai.com)
 This repo collects my AI red-teaming, LLM evaluation, and conversation design work.  
 It’s the working portfolio for my one-person lab, Spangler AI LLC.
 
-I focus on what actually happens when real, messy people use conversational models: multi-speaker conflicts, domestic-violence and breakup dynamics, bullying and harassment, health-adjacent diagnosis pressure, spiritual language, and emotionally loaded disputes. My goal is to find failure modes early, document them clearly, and design repeatable stress tests that align with product and policy constraints.
+I focus on what actually happens when real, messy people use conversational models: multi-speaker conflicts, domestic-violence and breakup dynamics, bullying and harassment, health-adjacent diagnosis pressure, spiritual language, emotionally loaded disputes, etc. My goal is to find failure modes early, document them clearly, and design repeatable stress tests that align with product and policy constraints.
+
+All field tests are conducted on the latest model as of the test date in 'fast' mode (or specific model equivilent).
 
 I’m a self-taught builder who specializes in:
 
